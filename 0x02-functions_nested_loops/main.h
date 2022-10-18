@@ -29,4 +29,11 @@ void print_alphabet_x10(void);
   * Return: On success 1 otherwise 0
   */
 int _islower(int c);
+
+/**
+  *_isalpha - display if it's lowercase uppercase or not
+  *@c: parameter to make test
+  *Return: Return 1 if true 0 otherwise
+  */
+int _isalpha(int c);
 #endif
