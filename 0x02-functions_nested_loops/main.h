@@ -19,8 +19,14 @@ int _putchar(char c);
 void print_alphabet(void);
 
 /**
-  *print_alphabet_x10() - display 10x alphabet from a to z
+  *print_alphabet_x10 - display 10x alphabet from a to z
   *Return: 0
   */
 void print_alphabet_x10(void);
+
+/**
+  * _islower - display result of lower number or letter
+  * Return: On success 1 otherwise 0
+  */
+int _islower(int c);
 #endif
