@@ -12,5 +12,15 @@
 
 int _putchar(char c);
 
+/**
+  *print_alphabet - display alphabet letter from a to z
+  *Return: 0
+  */
 void print_alphabet(void);
+
+/**
+  *print_alphabet_x10() - display 10x alphabet from a to z
+  *Return: 0
+  */
+void print_alphabet_x10(void);
 #endif
