@@ -57,4 +57,6 @@ int _abs(int n);
   *return the last digit on the number
   */
 int print_last_digit(int n);
+
+void jack_bauer(void);
 #endif
