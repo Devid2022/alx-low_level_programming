@@ -51,4 +51,10 @@ int print_sign(int n);
   *return: returns 0
   */
 int _abs(int n);
+
+/**
+  *print_last_digit - display laqt digit of a number 
+  *return the last digit on the number
+  */
+int print_last_digit(int n);
 #endif
