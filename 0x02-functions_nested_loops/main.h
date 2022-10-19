@@ -45,4 +45,10 @@ int _isalpha(int c);
   * return -1 if n is less than 0
   */
 int print_sign(int n);
+
+/**
+  *int_abs - display absolute value of an integer
+  *return: returns 0
+  */
+int _abs(int n);
 #endif
