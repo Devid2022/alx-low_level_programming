@@ -36,4 +36,13 @@ int _islower(int c);
   *Return: Return 1 if true 0 otherwise
   */
 int _isalpha(int c);
+
+/**
+  *print_sign - display sign of a number
+  *@n: parameter to make the test
+  *Return: return 1 if n is greather than zero
+  *return 0 if n is equals to zero
+  * return -1 if n is less than 0
+  */
+int print_sign(int n);
 #endif
