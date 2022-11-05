@@ -1,8 +1,7 @@
 #include "main.h"
-
 /**
   * _isupper - display uppercase
-  * @c: integer input
+  * @n: input
   * Return: integer
   */
 
